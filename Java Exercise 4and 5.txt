@@ -1,0 +1,6 @@
+4.The isEmpty() method is used to check if a list is empty or not and it returns True if the list has no elements else it returns false. It's return type is of datatype boolean.Thus, the size() method only returns the number of elements in this list.It is only used to get the number os elements in this list.
+
+5.For loop iterates statement or a block of statements until a specified expression evaluates to false.It is best used when you know exactly how many times you want to execute your code. However there's always a possiblity that your loop will be an infinite loop once you had a mistake in your code. 
+For-each is used to iterate through the items in object collections and array collections.It is widely used in traversing every element in a java collection. But in for-each loop we cannot traverse element in reverse order. It cannot retrieve elements based on index because it doesn't used index in accessing every element. However in this loop the code is more readable.
+
+
